@@ -29,10 +29,6 @@ main {
   border-width: 1px;
 }
 
-.card:hover {
-  transform: rotate(7deg);
-}
-
 .card header {
   padding: 20px;
   background: #13293d;
